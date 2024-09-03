@@ -1,0 +1,4 @@
+Python
+Flask
+Docker
+Kubernetes
